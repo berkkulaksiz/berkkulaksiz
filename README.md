@@ -1,4 +1,4 @@
-Hi 👋 My name is Berk Kulaksız
+Hi 👋 My name is Berk KULAKSIZ
 ==============================
 
 Senior Software Engineer, Architect
