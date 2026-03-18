@@ -1,14 +1,14 @@
 Hi 👋 My name is Berk KULAKSIZ
 ==============================
 
-Senior Software Engineer, Architect
+Founder & CEO
 -----------------------------------
 
 I am well experienced in software engineering and have intensive knowledge of architectural design, best practices, and implementation. Full software development life cycle, coding standards, reviews, unit testing, DDD, micro-service, DevOps, full-stack development, and native mobile application development are under my expertise.
 
-* 🌍  I'm based in Istanbul, Turkey
-* ✉️  You can contact me at [berkkulaksiz89@gmail.com](mailto:berkkulaksiz89@gmail.com)
-* 🚀  I'm currently working at [GAIN](https://www.gain.tv/)
+* 🌍  I'm based in Umraniye, Istanbul, Turkey
+* ✉️  You can contact me at [berk.kulaksiz@bytegurus.io](mailto:berk.kulaksiz@bytegurus.io)
+* 🚀  I'm currently working at [ByteGurus](https://www.bytegurus.io/)
 * 🤝  I'm open to collaborating on Fullstack Application Development with CI & CD
 
 <a href="https://www.twitter.com/BKulaksiz" target="_blank" rel="noreferrer"><img
