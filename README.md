@@ -1,7 +1,7 @@
 Hi 👋 My name is Berk KULAKSIZ
 ==============================
 
-Founder & CEO
+Founder & Chairman of the Board
 -----------------------------------
 
 I am well experienced in software engineering and have intensive knowledge of architectural design, best practices, and implementation. Full software development life cycle, coding standards, reviews, unit testing, DDD, micro-service, DevOps, full-stack development, and native mobile application development are under my expertise.
